@@ -1,0 +1,5 @@
+relatorio/
+relatorio.*
+input.*
+**/__pycache__/
+venv/
